@@ -1,1 +1,1 @@
-const scuberGreetingForFeet = 'This one is on me!';
+const scuberGreetingForFeet() = 'This one is on me!';
